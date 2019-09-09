@@ -1,8 +1,6 @@
 # Business-Intelligence-in-Facebook-and-Twitter-Ads-for-Vertical-Markets
 
-An in-depth analysis of Facebook & Twitter data as it pertains to CTR (click through rate), Engagement Rate, CPLC (cost per clink click) and others.
-
-Creaation of Pivot table to allow this analysis and insightful charts 
+An in-depth analysis of Facebook & Twitter data as it pertains to CTR (click through rate), Engagement Rate, CPLC (cost per clink click) and others with creation of Pivot table and insightful charts.
 
 Provided is historial post data from this year with Facebook & Twitter advertiser posts and relevant info (vertical, advertiser, metrics, description, etc). (Platform tab in excel doc is FB (facebook) and TW (twitter))
 
